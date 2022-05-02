@@ -22,11 +22,11 @@
 
 * 开发者文档
   * [须知](/Devdoc/notice)
-  *[API](/Devdoc/api)
-  *[开发环境](/Devdoc/dve_env)
-  *[如何制作HotPE模块](/Devdoc/makehpm)
-  *[模块投稿](/Devdoc/hpm_con)
-  *[PE集成HotPE模块](/Devdoc/shifthpm)
+  * [API](/Devdoc/api)
+  * [开发环境](/Devdoc/dve_env)
+  * [如何制作HotPE模块](/Devdoc/makehpm)
+  * [模块投稿](/Devdoc/hpm_con)
+  * [PE集成HotPE模块](/Devdoc/shifthpm)
 
 * 合作洽谈
   * [获取授权](/cooperation/permit)
