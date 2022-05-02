@@ -2,8 +2,6 @@
 
 * [写在前面](/README)
 
-* 
-
 * 总览
   * [日志](/overview/log)
   * [关于](/overview/about)
