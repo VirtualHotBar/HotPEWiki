@@ -2,6 +2,7 @@
 ##  开发状态
 
 ### HotPE内核
+- 开源！点击上方"GitHub"进入代码仓库
 - 最新Hot2.4Beta_build20220213基于Win 11 21H2 22000.258母盘构建
 - 采用Python脚本构建
 - [构建视频——用Python构建HotPE](https://www.bilibili.com/video/BV1W3411a7YW "构建视频——用Python构建HotPE")

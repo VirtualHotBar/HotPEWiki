@@ -7,9 +7,7 @@
 ## 如何加载插件
 1. 右键Edgeless插件文件选择“作为插件包加载”
 2. 开始菜单 Edgeless插件>选择插件加载
-![](https://pan.hotpe.top/api/v3/file/source/144/7.png?sign=Jqfopb2RSXSEvmGuKzo2-WkPxsqsPBE77dxwb_RH4yY%3D%3A0)
 3. [ept命令行加载](https://wiki.edgeless.top/v2/playground/ept.html "ept命令行加载")
 
 ## 在PE中下载插件
 在开始菜单打开 Edgeless插件>插件下载器，可以在线下载一些常用插件
-![](https://pan.hotpe.top/api/v3/file/source/145/1%20%282%29.png?sign=quxgpJPMe5JiUYacDMH6BeD-magvGoDNR3LZQIiFbtE%3D%3A0)

@@ -9,4 +9,4 @@ path可以是模块文件或放模块的目录
 
 ## 自动加载
 将模块文件放到HotPE安装磁盘下的HotPEModule文件夹，实现进入PE时自动加载
-![](https://pan.hotpe.top/api/v3/file/source/143/U.png?sign=I18jhycAg7_ZB7k0rWyewmcoz72xHs8hs8MgGVUDa1A%3D%3A0)
+![](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/10elcqf.png)
