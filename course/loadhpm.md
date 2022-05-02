@@ -9,4 +9,5 @@ path可以是模块文件或放模块的目录
 
 ## 自动加载
 将模块文件放到HotPE安装磁盘下的HotPEModule文件夹，实现进入PE时自动加载
+
 ![](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/10elcqf.png)

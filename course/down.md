@@ -6,5 +6,6 @@
 
 ## 下载模块
 打开[HotPE官网](https://www.hotpe.top/)，在下载页面选择“访问下载站”，在下载站中打开“HotPE模块”文件夹进行下载模块
+
 ![](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zb7kdy.png)
 
