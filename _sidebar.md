@@ -19,7 +19,7 @@
   * [如何安装HotPE到U盘或系统](/course/install)
   * [如何进入HotPE](/course/intohotpe)
   * [如何加载HotPE模块](/course/loadhpm)
-  * [使用Edgeless插件](/course/edgeles)
+  * [使用Edgeless插件](/course/edgeless)
   * [添加自定义驱动，打包成HotPE模块](/course/driver_hpm)
 
 * 开发者文档
