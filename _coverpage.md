@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![](https://www.hotpe.top/wp-content/uploads/2022/04/logo.ico)
+![](/logo.ico)
 
 # HotPE 工具箱
 
