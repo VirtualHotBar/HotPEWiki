@@ -8,32 +8,32 @@
 
 1.用Dism++提取驱动
 
-![](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zgobuv.png)
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwlux-0.png)
+![](https://i.hotpe.top/i/2022/05/02/zgobuv.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwlux-0.png)
 
 
 2.将驱动打包为.7z文件，使用7-Zip
 
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwvko-0.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwvko-0.png)
 
 
 3.打开HotPE模块制作工具填写基本信息，点击“下一步”
 
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwnna-0.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwnna-0.png)
 
 4.跳过嵌入文件步骤，点击“跳过此步骤(高级)”
 
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwq1u-0.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwq1u-0.png)
 
 
 5.点击“编辑嵌入文件和脚本”
 
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwlvn-0.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwlvn-0.png)
 
 
 6.将驱动包和Drvindex拖进HotPE模块制作工具
 
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwtg0-0.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwtg0-0.png)
 
 
 7.添加脚本，复制以下内容到脚本，然后点击“完成编辑”：
@@ -43,12 +43,12 @@ EXEC %CurDir%\Drvindex.exe -b
 //%CurDir%表模块目录
 ```
 
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwkcr-0.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwkcr-0.png)
 
 
 8.点击“开始制作”，等待制作完成
 
-![简单图床 - EasyImage](https://cdn.jsdelivr.net/gh/VirtualHotBar/pic@latest/i/2022/05/02/zbwkm6-0.png)
+![简单图床 - EasyImage](https://i.hotpe.top/i/2022/05/02/zbwkm6-0.png)
 
 制作好的模块就可以在HotPE中测试了
 自动加载模块：[如何加载HotPE模块——自动加载](https://wiki.hotpe.top/#/course/loadhpm?id=%e8%87%aa%e5%8a%a8%e5%8a%a0%e8%bd%bd )
