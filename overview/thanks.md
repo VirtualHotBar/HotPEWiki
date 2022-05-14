@@ -22,3 +22,9 @@
 [LuRee](https://space.bilibili.com/1362479852 "LuRee")
 
 [武噗_Txito](https://www.bilibili.com/video/BV1Vi4y1f7UV "武噗_Txito")
+
+## 宣传
+
+为HotPE的发展做出贡献的人（介绍、推荐HotPE等）:
+
+[在下莫老师](https://www.bilibili.com/video/BV1k5411176A)
