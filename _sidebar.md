@@ -31,4 +31,5 @@
 * 合作洽谈
   * [获取授权](/cooperation/permit)
   * [ZnPE 授权信息](/cooperation/ZnPE)
+  * [RisePE 授权信息](/cooperation/RisePE)
   
