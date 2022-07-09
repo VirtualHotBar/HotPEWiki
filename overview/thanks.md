@@ -2,10 +2,12 @@
 ## 资料
 [mdyblog](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=205402 "mdyblog") —— PECMD2012作者
 
-## 云服务提供
-[Abyss](https://www.rsnocsi.cn/ "Abyss") —— www.hotpe.top 的虚拟主机提供
+[Lightning](http://bbs.c3.wuyou.net/home.php?mod=space&uid=757909)  —— Drvindex作者
 
-[22NinEฅ](https://space.bilibili.com/66954389 "22NinEฅ") —— down.hotpe.top 服务器提供
+## 云服务提供
+[Abyss](https://www.rsnocsi.cn/ "Abyss") —— 主站的服务器提供
+
+[22NinEฅ](https://space.bilibili.com/66954389 "22NinEฅ") —— 下载站、博客的服务器提供
 
 ## 方案提供
 @杉
@@ -28,3 +30,4 @@
 为HotPE的发展做出贡献的人（介绍、推荐HotPE等）:
 
 [在下莫老师](https://www.bilibili.com/video/BV1k5411176A)
+
