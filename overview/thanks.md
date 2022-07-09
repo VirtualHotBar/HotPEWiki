@@ -15,7 +15,7 @@
 @Hydrogen
 
 ## 捐赠HotPE的各位网友
-[捐赠列表](https://wiki.hotpe.top/donate.html "捐赠列表")
+[捐赠列表](https://wiki.hotpe.top/#/overview/donate)
 
 ## 模块
 
