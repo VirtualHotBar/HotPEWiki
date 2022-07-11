@@ -7,6 +7,5 @@
 如果您在使用HotPE的过程中遇到了问题，请查看“常见问题”章节或在左上角搜索关键词；如果您是WinPE的新用户请查看“教程”章节；如果您想对HotPE进行DIY请查看“开发者文档”章节。
 
 # 介绍
-
-关于HotPE2.3的体验和特性介绍请观看视频内容。
-<iframe src="//player.bilibili.com/player.html?aid=548406136&amp;bvid=BV14q4y1V7dW&amp;cid=420251828&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+关于HotPE2.4的体验和特性介绍请观看视频内容：
+<iframe src="//player.bilibili.com/player.html?aid=685795279&amp;bvid=BV1xU4y1q7XE&amp;cid=769756043&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
