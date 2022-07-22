@@ -44,7 +44,7 @@ Pecmd脚本(添加到Pecmd.ini，HotPEModDeploy.exe放在%SystemRoot%\System32\�
 
 //加载HotPE模块(寻找HotPEModule文件夹并用HotPEModDeploy加载其中的模块)
 ```bash
-FORX @\HotPEModule,HotPEModule,0,EXEC !%SystemRoot%\System32\HotPEModDeploy.exe %HotPEModule%
+FORX @\HotPEModule,HotPEModule,0,EXEC !%SystemRoot%\System32\HotPEModDeploy.exe default %HotPEModule%
 ```
 
 打开方式注册表（PE启动时导入，HotPEModDeploy.exe放在%SystemRoot%\System32\下）：
