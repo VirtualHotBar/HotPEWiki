@@ -17,7 +17,7 @@
 @SYSTEM-RAMOS-ZDY
 
 ## 捐赠HotPE的各位网友
-[捐赠列表](https://wiki.hotpe.top/#/overview/donate)
+[捐赠列表](https://docs.hotpe.top/#/overview/donate)
 
 ## 模块
 
