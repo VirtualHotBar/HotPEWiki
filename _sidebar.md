@@ -31,6 +31,7 @@
   * [如何制作HotPE模块](/Devdoc/makehpm)
   * [模块投稿](/Devdoc/hpm_con)
   * [PE集成HotPE模块](/Devdoc/shifthpm)
+  * [修改HotPE成为分支](/Devdoc/branch)
 
 * 合作洽谈
   * [获取授权](/cooperation/permit)
