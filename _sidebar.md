@@ -10,7 +10,8 @@
   * [捐赠列表](/overview/donate)
 
 * 常见问题
-  * [什么是WinPE](/matter/what_winpe)
+  * [什么是WinPE？](/matter/what_winpe)
+  * [为什么AIDA64没有图标？](/matter/aida64)
 
 * 教程
   * [如何下载HotPE及模块](/course/down)
