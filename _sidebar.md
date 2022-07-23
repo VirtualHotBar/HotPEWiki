@@ -11,7 +11,7 @@
 
 * 常见问题
   * [什么是WinPE？](/matter/what_winpe)
-  * [HotPE有后门，流氓行为吗？配置是否加密？](/matter/safety)
+  * [是否有后门,流氓行为？配置加密？](/matter/safety)
   * [为什么AIDA64没有图标？](/matter/aida64)
 
 * 教程
