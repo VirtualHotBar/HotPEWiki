@@ -12,6 +12,7 @@
 * 常见问题
   * [什么是WinPE？](/matter/what_winpe)
   * [是否有后门,流氓行为？配置加密？](/matter/safety)
+  * [HotPE支持WIFI吗？](/matter/wifi)
   * [为什么AIDA64没有图标？](/matter/aida64)
 
 * 教程
