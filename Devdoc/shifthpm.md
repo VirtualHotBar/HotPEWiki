@@ -2,7 +2,7 @@
 > 本章节将实现把HotPE模块加入到你的PE，从而实现HotPE模块的功能
 
 
-模块部署(加载)工具HotPEModDeploy:https://down.hotpe.top/HotPE%E6%A8%A1%E5%9D%97/HotPEModDeploy.exe
+模块部署(加载)工具HotPEModDeploy:https://down.hotpe.top/HotPE%E6%A8%A1%E5%9D%97/HotPEModDeploy2.1.exe
 使用方法（命令行/help）：
 
 ```bash
