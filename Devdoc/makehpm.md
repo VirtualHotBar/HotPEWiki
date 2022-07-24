@@ -10,7 +10,7 @@
 ![](https://i.hotpe.top/i/2022/05/02/10gdvxs.png)
 
 
-- 下载独立的HotPE模块制作工具，链接：https://down.hotpe.top/directlink/1/HotPE模块/HotPE模块制作器2.0.exe.7z
+- 下载独立的HotPE模块制作工具，链接：https://down.hotpe.top/HotPE%E6%A8%A1%E5%9D%97/HotPE%E6%A8%A1%E5%9D%97%E5%88%B6%E4%BD%9C%E5%99%A82.0.exe
 
 ## 处理绿色软件
 找到软件的目录和可执行文件,以GitHubDesktop为例
